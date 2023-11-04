@@ -1,0 +1,7 @@
+ 02 01 navod o+ 21 12.10
+ 
+ 01 54551315 POLORNA B+ 24 1045
+ 02 34 Navod o+ 20 12.10
+ 02 d fd f f dffd
+ 1 fd dsf sdf fg 45
+ 10 06 navod o= 20 12
